@@ -59,8 +59,8 @@
       <file leaf-file-name="binaryTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/binaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+            <state relative-caret-position="2040">
+              <caret line="136" column="38" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -286,7 +286,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3495" y="137" width="1288" height="759" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -296,12 +295,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -490,8 +489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        <state relative-caret-position="2040">
+          <caret line="136" column="38" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
         </state>
       </provider>
     </entry>

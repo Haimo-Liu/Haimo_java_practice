@@ -54,7 +54,23 @@ public class binaryTree {
 
 
     public Node findNode(int key){
-        
+        Node focusNode = root;
+
+        while(focusNode.value != key){
+            if(key < focusNode.value){
+                focusNode = focusNode.leftNode;
+            }
+
+            else{
+                focusNode = focusNode.rightNode;
+            }
+
+            if(focusNode == null){
+                return null;
+            }
+        }
+
+        return focusNode;
     }
 
 
@@ -108,11 +124,19 @@ public class binaryTree {
         btree.addNode(60, "sales manager");
 
 
-        //btree.inOrderTraverseTree(btree.root);
+        btree.inOrderTraverseTree(btree.root);
 
         //btree.preorderTraverseTree(btree.root);
 
-        btree.postorderTraverseTree(btree.root);
+        //btree.postorderTraverseTree(btree.root);
+
+
+
+        System.out.println("search for 50");
+
+        Node found = btree.findNode(50);
+
+        System.out.println(found.name + " makes monthly salary of $" + found.value);
 
 
 
